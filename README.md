@@ -1,1 +1,1 @@
-# products
+# GingerXR Products

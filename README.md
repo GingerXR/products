@@ -3,6 +3,10 @@ Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
 
+## v0.2.1
+### Android
+- Add file logging for user debugging
+
 ## v0.2.0
 ### Windows
 - Minor UI updates

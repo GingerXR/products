@@ -2,6 +2,17 @@
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.3.0
+### Windows
+- Add additional network discovery server for better connection control
+- Add Local Virtual Display support
+- Update packages and streaming sdk for lower latency
+- Add audio streaming
+
+### Android
+- Target Android API 33
+- Update streaming sdk for lower latency
+- Add audio streaming
 
 ## v0.2.2
 ### Android

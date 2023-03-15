@@ -2,6 +2,10 @@
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.3.1
+### Windows
+- Add shortcut for reset display position Ctrl+Alt+R;Ctrl+Shift+R
+
 ## v0.3.0
 ### Windows
 - Add additional network discovery server for better connection control

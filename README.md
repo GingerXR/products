@@ -2,6 +2,11 @@
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.3.2
+### Windows
+- Update Virtual Display Driver to force use highest perf GPU
+- Add setting to force Wired Unity program runs on Highest perf GPU
+
 ## v0.3.1
 ### Windows
 - Add shortcut for reset display position Ctrl+Alt+R;Ctrl+Shift+R

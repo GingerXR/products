@@ -2,6 +2,18 @@
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.4.0
+### Windows
+- Instruction and FAQ update for Local Wired
+- UI update with Advanced Settings and new buttons for more actions
+- Add Graphics Preference for both Win app
+- Fix bug with launching Local Wired on Nreal Air
+- Add 2 Driver options with performance class
+
+### Local Wired Win
+- Add new Capture API and integrate
+- Add Notification and reset logic
+
 ## v0.3.2
 ### Windows
 - Update Virtual Display Driver to force use highest perf GPU

@@ -2,6 +2,10 @@
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.4.1
+### Windows
+- Fix capture preview not deleted for Wired program and performance issues
+
 ## v0.4.0
 ### Windows
 - Instruction and FAQ update for Local Wired

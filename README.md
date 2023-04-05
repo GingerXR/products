@@ -2,6 +2,18 @@
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.4.3
+### Windows
+- Fix double capture bug with local wired program
+- add control for usage data
+- update default to use low performance GPU and alert user when preference isn't set
+
+### Local Wired Win
+- add performance improvements
+
+### Android
+- Update vendor SDK
+
 ## v0.4.1
 ### Windows
 - Fix capture preview not deleted for Wired program and performance issues

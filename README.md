@@ -2,6 +2,12 @@
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.4.8
+### Windows
+- Add Codesigning
+- Fix space character in command path error
+- Add warning for DLL loading
+
 ## v0.4.3
 ### Windows
 - Fix double capture bug with local wired program

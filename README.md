@@ -2,6 +2,11 @@
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.4.9
+### Windows
+- Fix space character in command path error pt2
+- Fix local program due to Nreal > Xreal name change
+
 ## v0.4.8
 ### Windows
 - Add Codesigning

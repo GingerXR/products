@@ -2,6 +2,13 @@
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.5.0
+### Windows
+- Upgrade to new UI and feature set
+
+### Android
+- Add multi-row layout
+
 ## v0.4.9
 ### Windows
 - Fix space character in command path error pt2

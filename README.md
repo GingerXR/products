@@ -2,6 +2,17 @@
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.5.1
+### Windows
+- Add feedback, advanced setting, and performance setting functionality
+- Add experimental keyboard and mouse streaming input
+- Add more virtual monitor resolution for high perf GPU driver
+- Reset and change some default settings
+- Other small changes and bug fixes
+
+### Android
+- Add bluetooth keyboard and mouse capture and streaming (Xreal only)
+
 ## v0.5.0
 ### Windows
 - Upgrade to new UI and feature set

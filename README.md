@@ -1,4 +1,7 @@
 # GingerXR Products
+
+Please submit support request through email or in app functionality. We check Github less frequently
+
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes

@@ -2,6 +2,10 @@
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.5.2
+### Android
+- Update Android to version 34
+
 ## v0.5.1
 ### Windows
 - Add feedback, advanced setting, and performance setting functionality

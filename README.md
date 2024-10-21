@@ -5,6 +5,14 @@ Please submit support request through email or in app functionality. We check Gi
 Visit https://gogingerxr.com/ for more information.
 
 # Changes Notes
+## v0.6.0
+### Windows
+- Update API Keys
+- Add more glasses
+
+### Android
+- Update Glass SDK
+
 ## v0.5.5
 ### Windows
 - Bug fixes and minor UI updates
